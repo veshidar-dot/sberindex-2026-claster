@@ -1,0 +1,7 @@
+data/
+out/
+config.local.yaml
+__pycache__/
+*.pyc
+.pytest_cache/
+run_full.log
